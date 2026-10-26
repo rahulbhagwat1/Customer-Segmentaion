@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Customer Segmentation Dashboard
 
 An interactive Streamlit dashboard that groups customers into segments with **real K-Means clustering** (scikit-learn). No API keys, database, or paid services needed.
@@ -54,3 +55,7 @@ docker build -t customer-segmentation .
 docker run -p 8501:8501 customer-segmentation
 ```
 Or push the repo to GitHub and deploy it for free on Streamlit Community Cloud.
+=======
+# Customer-Segmentaion
+An interactive customer segmentation dashboard built with Python, Streamlit, and K-Means clustering to analyze customer behavior, visualize spending patterns, and generate actionable business insights.
+>>>>>>> a2634eba287a9583a5025ad53e1327b950551f5c
